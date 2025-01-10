@@ -38,6 +38,10 @@ Features List
 •	Finding users with shared interests <br>
 •	Viewing information such as users' profession choices and salary expectations.
 
+Screenshots/Demos
+---
+Screenshot 1: Name Entry Screen <br>
+Screenshot 2: User Profile and Interests Display
 
 
 
