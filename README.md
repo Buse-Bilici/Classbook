@@ -7,7 +7,7 @@ Classbook is a platform that allows users to share their personal interests, car
 Installation Instructions
 ---
 **1. Ensure You Have a Local Server Installed** <br>
-     •Make sure you have a local server environment installed (e.g., XAMPP, WAMP, or MAMP). <br> <br>
+     •Make sure you have a local server environment installed (e.g., XAMPP, WAMP, or MAMP). <br> 
 **2. Place Files in the Server Directory**  <br>
      •Move the copied project folder to the htdocs directory (if using XAMPP) or the equivalent directory for your server.  <br>
 **3. Start the Local Server**  
