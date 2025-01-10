@@ -16,8 +16,8 @@ Usage Guidelines
 
 Team Members
 ---
-•	Buse Bilici <br>
-•	Meryem Ceren Özkan <br>
+•	Buse Bilici = https://github.com/Buse-Bilici <br>
+•	Meryem Ceren Özkan = https://github.com/meryemceren <br>
 •	Ayşe Nur Kahraman <br>
 •	Gitee Fayez 
 
