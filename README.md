@@ -40,8 +40,8 @@ Features List
 
 Screenshots/Demos
 ---
-Screenshot 1: Name Entry Screen <br>
-Screenshot 2: User Profile and Interests Display
+**Screenshot 1: Name Entry Screen** <br>
+**Screenshot 2: User Profile and Interests Display**
 
 
 
