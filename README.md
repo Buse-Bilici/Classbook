@@ -10,6 +10,6 @@ Installation Instructions
 
 Usage Guidelines
 ---
-•	Open the index.php file in your browser to launch Classbook.
-•	Enter your information in the relevant fields and then explore other users' interests by entering their names.
-•	Connect with people who share similar interests and expand your network!
+•	Open the index.php file in your browser to launch Classbook. <br>
+•	Enter your information in the relevant fields and then explore other users' interests by entering their names. <br>
+•	Connect with people who share similar interests and expand your network! <br>
