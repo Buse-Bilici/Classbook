@@ -6,6 +6,22 @@ Classbook is a platform that allows users to share their personal interests, car
 
 Installation Instructions
 ---
+**1. Ensure You Have a Local Server Installed** <br>
+     •Make sure you have a local server environment installed (e.g., XAMPP, WAMP, or MAMP). <br>
+**2. Place Files in the Server Directory**  <br>
+     •Move the copied project folder to the htdocs directory (if using XAMPP) or the equivalent directory for your server.  <br>
+**3. Start the Local Server**  <br>  
+     •Open your server control panel and start the Apache and MySQL services.  <br>
+**4. Create a Database and Import the CSV File**  <br>
+     •Open phpMyAdmin by visiting http://localhost/phpmyadmin in your browser.  <br>
+     •Create a new database (e.g., name it: classbook).  <br>
+     •In the newly created database, create a new table or use the "Import" option to import a table. <br>
+     •If importing, select the classbook.csv file and configure the necessary settings to load the data into the database.  <br>
+**5. Configure the Project**  <br>
+     •Edit the index.php file (or the equivalent configuration file) in the project directory, write and adjust your code.  <br>
+**6. Run the Application**  <br>
+     •Open your browser and visit http://localhost/classbook (adjust the URL based on your server setup).
+
 
 
 Usage Guidelines
