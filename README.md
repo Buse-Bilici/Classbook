@@ -57,7 +57,7 @@ Features List
 Screenshots/Demos
 ---
 **Screenshot 1: Name Entry Screen** <br> <br>
-Classbook/images/Name Entry Screen.jpg
+(images/Name Entry Screen.jpg)
 
 **Screenshot 2: User Profile and Interests Display**
 
