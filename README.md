@@ -57,7 +57,8 @@ Features List
 Screenshots/Demos
 ---
 **Screenshot 1: Name Entry Screen** <br> <br>
-https://github.com/Buse-Bilici/Classbook/blob/main/images/Name%20Entry%20Screen.jpg
+Classbook/images/Name Entry Screen.jpg
+
 **Screenshot 2: User Profile and Interests Display**
 
 
