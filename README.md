@@ -35,7 +35,7 @@ Team Members
 •	Buse Bilici = https://github.com/Buse-Bilici <br>
 •	Meryem Ceren Özkan = https://github.com/meryemceren <br>
 •	Ayşe Nur Kahraman <br>
-•	Gitee Fayez 
+•	Gitee Fayez = https://github.com/Giteefz
 
 
 Technical Stack
