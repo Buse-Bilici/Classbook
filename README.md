@@ -57,7 +57,7 @@ Features List
 Screenshots/Demos
 ---
 **Screenshot 1: Name Entry Screen** <br> <br>
-(images/Name Entry Screen.jpg)
+![Name Entry Screen](https://github.com/user-attachments/assets/4810ac26-6119-4ecd-a2e5-9818ce51ba18)
 
 **Screenshot 2: User Profile and Interests Display**
 
