@@ -60,7 +60,7 @@ Screenshots/Demos
 ![Name Entry Screen](https://github.com/user-attachments/assets/4810ac26-6119-4ecd-a2e5-9818ce51ba18)
 
 **Screenshot 2: User Profile and Interests Display** <br> <br>
-![Name Entry Screen-exampe1](https://github.com/user-attachments/assets/0b5efb17-e840-4f31-b652-67cbbc98e9b1)
+![User Profile and Interests Display-example1](https://github.com/user-attachments/assets/327fcb37-c480-4845-9750-0f891a8edcbb)
 
 **Screenshot 3: Database Screen Exapmle**  <br> <br>
 ![database screen example](https://github.com/user-attachments/assets/79388cc8-cdf7-4f2e-8408-85b1067ec89b)
